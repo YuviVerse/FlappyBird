@@ -71,7 +71,6 @@ namespace Level
             {
                 _columnSpawnTimer += _columnSpawnTimerMax;
                 float height = UnityEngine.Random.Range(MINHeight, MAXHeight);
-                _gapSize = 23f;
                 CreateGapColumns(height, _gapSize, _columnSpawnXPosition);
             }
         }
