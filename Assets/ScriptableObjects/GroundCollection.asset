@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cda156b95f05bf845885dab20153937d, type: 3}
+  m_Name: GroundCollection
+  m_EditorClassIdentifier: 
+  Grounds:
+  - GroundType: 0
+    Prefab: {fileID: 7725913298504556441, guid: e1aeecf556e8c7a42943c23699048525, type: 3}
